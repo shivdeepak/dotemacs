@@ -1,9 +1,2 @@
-;; mac of gui
-(if
-    (eql window-system 'ns)
-
-    (progn
-      (tool-bar-mode -1)
-      (toggle-frame-maximized)
-      )
-  )
+;; configuration is loaded from ~/.emacs.d/init.el
+(load-file "~/.emacs.d/init.el")
