@@ -9,5 +9,6 @@
       (tool-bar-mode -1)
       (custom-set-variables
        '(initial-frame-alist (quote ((fullscreen . maximized)))))
+      (scroll-bar-mode -1)
       )
   )
