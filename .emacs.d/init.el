@@ -2,3 +2,4 @@
 (load-file "~/.emacs.d/gui.el")
 (load-file "~/.emacs.d/editing.el")
 (load-file "~/.emacs.d/themes.el")
+(load-file "~/.emacs.d/server.el")

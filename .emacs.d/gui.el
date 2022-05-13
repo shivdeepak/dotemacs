@@ -1,3 +1,6 @@
+(setq inhibit-startup-screen t)
+
+
 ;; mac of gui
 (if
     (eql window-system 'ns)
