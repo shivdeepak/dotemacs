@@ -7,3 +7,4 @@
 
 (unless (package-installed-p 'magit)
   (package-install 'magit))
+(global-set-key (kbd "C-c g") 'magit-status)
