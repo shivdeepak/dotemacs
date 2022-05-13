@@ -3,3 +3,7 @@
 (package-initialize)
 
 ;; (package-refresh-contents)
+
+
+(unless (package-installed-p 'magit)
+  (package-install 'magit))
