@@ -4,3 +4,5 @@
 (load-file "~/.emacs.d/themes.el")
 (load-file "~/.emacs.d/server.el")
 (load-file "~/.emacs.d/navigation.el")
+(load-file "~/.emacs.d/flycheck.el")
+(load-file "~/.emacs.d/magit.el")
