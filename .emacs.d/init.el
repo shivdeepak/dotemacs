@@ -6,3 +6,6 @@
 (load-file "~/.emacs.d/navigation.el")
 (load-file "~/.emacs.d/flycheck.el")
 (load-file "~/.emacs.d/magit.el")
+(load-file "~/.emacs.d/intellisense.el")
+(load-file "~/.emacs.d/copilot.el")
+(load-file "~/.emacs.d/neotree.el")
